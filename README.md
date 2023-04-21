@@ -7,8 +7,11 @@
   <img src="https://user-images.githubusercontent.com/106891439/222987208-4381a267-deca-41da-bb1b-b743b7e9c7a5.png" width="40%" height="40%">
 </p>
 
+Avec le logiciel, on passe du fichier .csv (à gauche) à un fichier Excel (à droite) avec des boutons pouvant lancer des scripts VBA.
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/106891439/222988587-d956e238-8681-4c81-a337-92c899c51006.png" width="70%" height="70%">
+  <img src="https://user-images.githubusercontent.com/106891439/233512076-b0a7b886-41cd-4e4f-bb58-22448b4d8a85.png" width="40%" height="40%">
+  <img src="https://user-images.githubusercontent.com/106891439/233512085-24a08db9-046b-4e15-9179-3a7874e86c9a.png" width="40%" height="40%">
 </p>
 
 ## Présentation
